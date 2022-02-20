@@ -61,3 +61,48 @@ padding-left: 5%;
     text-transform: uppercase;
     border-radius: 10px;
 }
+
+/*exprience section*/
+.exprience_content_wrapper{
+    display: flex;
+    margin-bottom: 150px;
+
+}
+.exprience_title{
+    font-size: 50px;
+}
+
+
+.Experiences_left_side_content{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 10px 18px #888888;
+    padding: 5%;
+    border-left: 5px solid;
+    border-image: linear-gradient(orange, tomato );
+   border-image-slice: 1;
+
+}
+
+.Experiences_left_side_content h3{
+color: orange;
+}
+.Experiences_right_side_content{
+width: 50%;
+margin-left: 5%;
+margin-right: 5%;
+padding: 5%;
+box-shadow: 10px 10px 18px #888888;
+border-left: 5px solid;
+border-image: linear-gradient(rgb(0, 81, 255), tomato );
+border-image-slice: 1;
+}
+.Experiences_right_side_content h3{
+color: orange;
+}
+
+/*footer section*/
+footer p{
+    text-align: center;
+}
