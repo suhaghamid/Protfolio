@@ -1,0 +1,40 @@
+body{
+   
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+/* Welcome section css*/
+.Welcome_wrapper{
+    display: flex;
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+.Welcome_left_side_content{
+    width: 50%;
+    padding-left: 5%;
+}
+.Welcome_left_side_content h1{
+    font-size: 50px;
+}
+.Title_color{
+    color: orange;
+}
+.Welcome_btn{
+    padding: 10px 50px;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
+.Welcome_right_side_content{
+    width: 50%;
+    padding-left: 5%;
+}
+.Welcome_right_side_content img{
+    width: 80%;
+}
+/* Dream Big section css*/
+
