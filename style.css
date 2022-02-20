@@ -37,4 +37,27 @@ body{
     width: 80%;
 }
 /* Dream Big section css*/
-
+.Dream_Big_wrapper{
+    display: flex;
+    margin-top: 150px;
+}
+.Welcome_left_side_content{
+padding-left: 5%;
+}
+.Welcome_right_side_content{
+    padding-left: 5%;
+}
+.Welcome_right_side_content h1{
+    font-size: 50px;
+}
+.Welcome_left_side_content img{
+    width: 80%;
+}
+.Dream_Big_btn{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
